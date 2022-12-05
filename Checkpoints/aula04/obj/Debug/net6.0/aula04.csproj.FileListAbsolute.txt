@@ -1,0 +1,15 @@
+C:\Projeto\POO\Checkpoints\aula04\bin\Debug\net6.0\aula04.exe
+C:\Projeto\POO\Checkpoints\aula04\bin\Debug\net6.0\aula04.deps.json
+C:\Projeto\POO\Checkpoints\aula04\bin\Debug\net6.0\aula04.runtimeconfig.json
+C:\Projeto\POO\Checkpoints\aula04\bin\Debug\net6.0\aula04.dll
+C:\Projeto\POO\Checkpoints\aula04\bin\Debug\net6.0\aula04.pdb
+C:\Projeto\POO\Checkpoints\aula04\obj\Debug\net6.0\aula04.csproj.AssemblyReference.cache
+C:\Projeto\POO\Checkpoints\aula04\obj\Debug\net6.0\aula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\POO\Checkpoints\aula04\obj\Debug\net6.0\aula04.AssemblyInfoInputs.cache
+C:\Projeto\POO\Checkpoints\aula04\obj\Debug\net6.0\aula04.AssemblyInfo.cs
+C:\Projeto\POO\Checkpoints\aula04\obj\Debug\net6.0\aula04.csproj.CoreCompileInputs.cache
+C:\Projeto\POO\Checkpoints\aula04\obj\Debug\net6.0\aula04.dll
+C:\Projeto\POO\Checkpoints\aula04\obj\Debug\net6.0\refint\aula04.dll
+C:\Projeto\POO\Checkpoints\aula04\obj\Debug\net6.0\aula04.pdb
+C:\Projeto\POO\Checkpoints\aula04\obj\Debug\net6.0\aula04.genruntimeconfig.cache
+C:\Projeto\POO\Checkpoints\aula04\obj\Debug\net6.0\ref\aula04.dll
